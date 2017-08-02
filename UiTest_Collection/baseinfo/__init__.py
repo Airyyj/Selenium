@@ -1,34 +1,34 @@
 #-*-coding:utf-8-*-
 #测试用例配置参数
 
-base_url = "http://www.yiyao.cc"
-undirect_username = "xinjiang1"
-undirect_password = "abc123"
-direct_username = "tstzj"
-direct_password = "abc123"
+base_url = "http://www."
+undirect_username = "xxxx"
+undirect_password = "xxxx"
+direct_username = "xxxx"
+direct_password = "xxxx"
 
-buyerName = 'xzuib'
-buyerPassword = '111111'
+buyerName = 'xxxxxx'
+buyerPassword = 'xxxxx'
 
-sellerName = 'xzuis'
-sellerPassword = '111111'
+sellerName = 'xxxx'
+sellerPassword = 'xxxxx'
 
 
 #发送邮件配置参数
-Smtp_Server = 'smtp.mxhichina.com'
-Smtp_Sender = 'dev@tenez.cn'
-Smtp_Sender_Password = 'Mall20151118'
-#Smtp_Receiver = ['yanglei@tenez.cn','yangyaojun@tenez.cn','zhailibao@tenez.cn','pengfei@tenez.cn']
-Smtp_Receiver = ['yangyaojun@tenez.cn']
-Smtp_Receiver_pre = ['zhailibao@tenez.cn']
+Smtp_Server = 'xxxxxxx'
+Smtp_Sender = 'xxxxxn'
+Smtp_Sender_Password = 'xxxxxxx'
+#Smtp_Receiver = ['xxxxx@xxx.cn','xxxxx@xxx.cn','xxxxx@xxx.cn','xxxxx@xxx.cn']
+Smtp_Receiver_test = ['xxxxx@xxx.cn']
+Smtp_Receiver_pre = ['xxxxx@xxx.cn']
 
 
 #测试邮箱配置
 #Smtp_Server = 'smtp.163.com'
-#Smtp_Sender = 'wmqyyj_test@163.com'
-#Smtp_Sender_Password = 'WMQyyj2018'
-#Smtp_Receiver = ['yangyaojun@tenez.cn']
-#Smtp_Receiver_pre = ['yangyaojun@tenez.cn']
+#Smtp_Sender = 'xxxxx@xxx.com'
+#Smtp_Sender_Password = 'xxxxxx'
+#Smtp_Receiver = ['xxxxx@xxx.com']
+#Smtp_Receiver_pre = ['xxxxx@xxx.com']
 
 
 #测试用例及报告路径配置参数
